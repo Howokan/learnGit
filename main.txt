@@ -1,0 +1,12 @@
+git config --global user.name "Howokan"
+git config --global user.email "hebidkage@gmail.com"
+
+git config --global color.ui auto
+git config --global core.autocrlf true
+git config --global core.safecrlf true
+
+
+mod
+
+
+awdawd
