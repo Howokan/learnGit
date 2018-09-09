@@ -8,5 +8,6 @@ git config --global core.safecrlf true
 
 mod
 
+{main}
 
 awdawd
