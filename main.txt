@@ -8,5 +8,5 @@ git config --global core.safecrlf true
 
 mod
 
-
+[test-prune2]
 awdawd
